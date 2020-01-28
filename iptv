@@ -69,8 +69,8 @@ https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_e
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/V6mQwVTz/kix.png" group-title="Movies",Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/ZnJTfRZF/Celestial.png" group-title="Movies",Celestial Movies
-https://liveanevia.mncnow.id/live/eds/CelestialMovie/sa_hls/CelestialMovie.m3u8
+#EXTINF:-1,Celestial Movies" group-title="Movies"
+http://210.210.155.35/qwr9ew/s/s33/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGsgKkrg/Waku-Waku-Japan.png" group-title="Movies",Waku-Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/8zfVmWMg/Hits.png" group-title="Movies",Hits
