@@ -26,6 +26,11 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ID",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
+#EXTINF:-1 " group-title="ID",CNN
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
+#EXTINF:-1 " group-title="ID",CNBC
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
+
  
  
 KIDS
@@ -89,6 +94,19 @@ http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F24
 http://anevia114.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-CelestialClassic-mp4a_98800_eng=5.m3u8
 #EXTINF:0 tvg-logo="https://www.transvision.co.id/img/channel/scm_legend.png" group-title="Movies",SCM Legend
 http://anevia115.mncnow.id/live/eds/SCM/sa_hls/SCM-avc1_2499968=12-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/firstmovies.png" group-title="Movies",First Movie
+http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b2288000.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="" group-title="Movies",FOX
+http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="" group-title="Movies",FOX Family Movies
+http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626AA28A8A68A1182729AC6EE&profile=pass
+#EXTINF:-1 " group-title="Movies",Star Movies (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/95.jpg" group-title="Movies",MY CINEMA
+http://210.210.155.35/x6bnqe/s/s31/S4/mnf.m3u8
+#EXTINF:-1 tvg-logo="https://www.nowonsocmed.com/iptv/logo/raimovie.png" group-title="Movies",Ray Movie
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+
  
 Knowledge
  
@@ -114,6 +132,14 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Knowledge",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Knowledge",Animal Planet
+http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Knowledge",Discovery Channel
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" group-title="Knowledge",TLC
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
+#EXTINF:-1 " group-title="Knowledge",Star World (HD)
+http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
  
 Extra Sport
  
