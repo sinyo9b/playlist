@@ -26,7 +26,7 @@ https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/adisyukri/test/master/1576870774-picsay.jpg" group-title="ID",METRO TV
 http://edge.metroTVnews.com:1935/live-edge/smil:metro.smil/master.m3u8
-#EXTINF:-1 tvg-logo="[img]https://i.imgur.com/SNT8RBG.png?1[/img]" group-title="ID",CNN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SNT8RBG.png" group-title="ID",CNN
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 " group-title="ID",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
