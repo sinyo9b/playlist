@@ -58,6 +58,8 @@ https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Delm4HK.jpg" group-title="Movies",AXN
 http://210.210.155.66/h/h141/02.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Delm4HK.jpg" group-title="Movies",AXN HD
+http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CipiMs7.png" group-title="Movies",Crime Investigation
 https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xZ5gpv.jpg" group-title="Movies",HBO Hits
