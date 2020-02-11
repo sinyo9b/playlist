@@ -112,33 +112,33 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
  
 Knowledge
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/KvmQmyJK/BBC-Earth.png" group-title="Knowledge",BBC Earth
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gEQRfpZ.jpg" group-title="Knowledge",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/PJK26R4J/Asian-food.png" group-title="Knowledge",Asian Food Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Channel
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/QxNgRJd1/Redbull.png" group-title="Knowledge",Red Bull Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ORWDB6b.jpg" group-title="Knowledge",Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/1XrHDW55/Animal-Planet.png" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet
 https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000000=16-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/FKkVTFs6/History.png" group-title="Knowledge",History
-https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9XYt8nCc/natgeo.png" group-title="Knowledge",Nat Geographic
-https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vThr4c34/Nat-geo-wild.png" group-title="Knowledge",Nat Geo Wild
-https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/MHq0Zybk/nat-Geo-pople.png" group-title="Knowledge",Nat Geo People
-https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Knowledge",Fashion TV Teens
-http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Knowledge",Fashion TV Films
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/qvRLCxf4/Fashion-tv.png" group-title="Knowledge",Fashion TV Midnight
-http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="Knowledge",Animal Planet
+#EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet HD
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="" group-title="Knowledge",Discovery Channel
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/gRwXVRj.png" group-title="Knowledge",Nat Geographic
+https://liveanevia.mncnow.id/live/eds/NatGeoChannel/sa_hls/NatGeoChannel-avc1_2499968=10-mp4a_98800_eng=4.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bfQthit.png" group-title="Knowledge",Nat Geo Wild
+https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/a2pt8pj.png" group-title="Knowledge",Nat Geo People
+https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Teens
+http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Films
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Midnight
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
+#EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/ENmyEwz.png" group-title="Knowledge",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
-#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="" group-title="Knowledge",TLC
+#EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://i.imgur.com/FS9BPCd.png" group-title="Knowledge",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 " group-title="Knowledge",Star World (HD)
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
@@ -147,33 +147,33 @@ http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414
 
 Extra Sport
  
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="Extra Sports",Soccer Channel 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZtU4IK.jpg" group-title="Extra Sports",Soccer Channel 1
 https://liveanevia.mncnow.id/live/eds/MNCSports/sa_hls/MNCSports-avc1_1000000=7-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/vHN4mrbJ/super-soccer.png" group-title="Extra Sports",Soccer Channel 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4ZtU4IK.jpg" group-title="Extra Sports",Soccer Channel 2
 https://liveanevia.mncnow.id/live/eds/SoccerChannel/sa_hls/SoccerChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/05m6NMbj/fight-sport.png" group-title="Extra Sports",Fight Sports
+#EXTINF:-1 tvg-logo="https://i.imgur.com/600Nix3.jpg" group-title="Extra Sports",Fight Sports
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_hls/FightSports-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/RVXcLJ9d/Egg-Network.png" group-title="Extra Sports",Egg Network
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mMUdtDu.png" group-title="Extra Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W1ygQRdJ/foxsport1.png" group-title="Extra Sports",FOX Sport 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OKnS5dr.jpg" group-title="Extra Sports",FOX Sport 1
 https://liveanevia.mncnow.id/live/eds/FOXSports/sa_hls/FOXSports-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/NjFRJGjc/foxsport2.png" group-title="Extra Sports",FOX Sport 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YurISbH.jpg" group-title="Extra Sports",FOX Sport 2
 https://liveanevia.mncnow.id/live/eds/FoxSports2/sa_hls/FoxSports2-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/4dktxzbf/foxsport3.png" group-title="Extra Sports",FOX Sport 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/2wCWPDE.jpg" group-title="Extra Sports",FOX Sport 3
 https://liveanevia.mncnow.id/live/eds/FoxSports3/sa_hls/FoxSports3-avc1_2499968=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/DZrGJ8Bq/Real-Madrid.png" group-title="Extra Sports",Real Madrid TV
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RZI1lJU.png" group-title="Extra Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/5ym8G6zx/Champions-tv-1.png" group-title="Extra Sports",Champions tv 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LEHoHi.png" group-title="Extra Sports",Champions tv 1
 https://dl.dropbox.com/s/vcda69kz7mnio6e/Champ1.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/9FWd9Y3z/champions-tv-2.png" group-title="Extra Sports",Champions tv 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3LEHoHi.png" group-title="Extra Sports",Champions tv 2
 https://dl.dropbox.com/s/znpvtme2xmrlij2/Champ2.m3u8?dl=0
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Six
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4JT2dxN.jpg" group-title="Extra Sports",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/KVTFkBT.jpg" group-title="Extra Sports",Sony Ten 1
 https://streamer-1.toffeelive.com/live/sony_ten1_hd_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ds1xAWu.jpg" group-title="Extra Sports",Sony Ten 2
 https://streamer-1.toffeelive.com/live/sony_ten2_hd_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9SFB4ju.png" group-title="Extra Sports",Sony Ten 3
 https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/zB3s0jV1/Sony_Six.png" group-title="Extra Sports",Sony ESPN
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RYHveA7.png" group-title="Extra Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
