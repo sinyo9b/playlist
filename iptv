@@ -54,6 +54,8 @@ https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_9
 https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xXv3I9.png" group-title="Kids",Animax
 https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/P7EXjhM.png" group-title="Kids",MNC Kids
+https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
  
 Movies
  
@@ -85,6 +87,8 @@ https://liveanevia.mncnow.id/live/eds/FoxCrime/sa_hls/FoxCrime-avc1_2499968=10-m
 https://liveanevia.mncnow.id/live/eds/tvN/sa_hls/tvN-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC7pyW.jpg" group-title="Movies",TvN movies
 https://liveanevia.mncnow.id/live/eds/tvNMovies/sa_hls/tvNMovies-avc1_2499968=10-mp4a_66000_eng=2.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/aU93sAL.jpg" group-title="Movies",K+
+http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1u5WFy1.jpg" group-title="Movies",Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies 
@@ -111,6 +115,8 @@ http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:jgoch/chunklist_b228800
 http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ppjyAna.jpg" group-title="Movies",Rai Movie
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/VLXzm7L.jpg" group-title="Movies",Zee Bioskop
+https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 
  
 Knowledge
@@ -119,6 +125,8 @@ Knowledge
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Channel
 https://liveanevia.mncnow.id/live/eds/AFC/sa_hls/AFC-avc1_1000000=6-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Network2
+http://341697390.r.fdccdn.net/live/tw_yazhoumeishi.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORWDB6b.jpg" group-title="Knowledge",Red Bull Tv
 http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet
@@ -147,6 +155,8 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="https://i.imgur.com/UPdI9SN.png" group-title="Knowledge",Blue Ant Extreme
 http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Uf8jEBs.png" group-title="Knowledge",Sony Gem
+http://210.210.155.66/h/h19/01.m3u8
 
 Extra Sport
  
@@ -182,6 +192,7 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 
+
 China
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E51tqT3.jpg" group-title="China",ANHUI TV
@@ -197,3 +208,5 @@ Music
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j4GZFPk.jpg" group-title="Music",MTV
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GmDHgWs.png" group-title="Music",Music TV
+https://anevia114.mncnow.id:443/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
