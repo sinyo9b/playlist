@@ -192,7 +192,6 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 
 
-
 China
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/E51tqT3.jpg" group-title="China",ANHUI TV
@@ -203,6 +202,26 @@ https://anevia115.mncnow.id:443/live/eds/JiangsuTV/sa_hls/JiangsuTV-avc1_2499968
 https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_2499968=7-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IOLtgIH.png" group-title="China",SHANGHAI DRAGON TV
 https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_2499968=7-mp4a_98800_eng=3.m3u8
+
+
+Malaysia
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JuqUWvK.jpg" group-title="Malaysia",Channel 8
+https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/AJHmABy.jpg" group-title="Malaysia",Channel U
+https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/wlv01A5.png" group-title="Malaysia",TV Okey
+http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/GTeiHUB.jpg" group-title="Malaysia",Astro Awani
+https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJf27Y7.jpg" group-title="Malaysia",Astro Go Shop
+https://agplayback03.aotg-video.astro.com.my/CH1/master_GOSHOP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/bJf27Y7.jpg" group-title="Malaysia",Astro Go Shop Malaya
+https://agplayback03.aotg-video.astro.com.my/CH3/master_GOSHOP3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/mobRu42.jpg" group-title="Malaysia",Astro Naura
+https://agplayback03.aotg-video.astro.com.my/CH2/master_NAURAGOSHOP4.m3u8
+
 
 Music
 
