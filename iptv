@@ -263,6 +263,12 @@ https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_2499968=7-m
 https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvBSpnx.jpg" group-title="China",XingXong
 http://tvku.live:8888/Arifardianayah/Arif/3605
+#EXTINF:-1 tvg-logo="https://i.imgur.com/DL6zkTI.png" group-title="China",CCTV 1
+http://tvku.live:8888/Arifardianayah/Arif/2909
+#EXTINF:-1 tvg-logo="https://i.imgur.com/SUIl0ih.png" group-title="China",CCTV 4
+http://tvku.live:8888/Arifardianayah/Arif/2912
+#EXTINF:-1 tvg-logo="[img]https://i.imgur.com/zmrDvi9.jpg" group-title="China,CCTV 6
+http://tvku.live:8888/Arifardianayah/Arif/2915
 
 
 Malaysia
@@ -272,6 +278,8 @@ Malaysia
 https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/AJHmABy.jpg" group-title="Malaysia",Channel U
 https://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master02.m3u8
+#EXTINF:-1 tvg-logo="[img]https://i.imgur.com/N2lWvTO.jpg" group-title="Malaysia",TV3
+http://tvku.live:8888/Arifardianayah/Arif/2264
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wlv01A5.png" group-title="Malaysia",TV Okey
 http://rtmokeymobile.secureswiftcontent.com/Origin02/ngrp:RTM2/chunklist_b3696000.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GTeiHUB.jpg" group-title="Malaysia",Astro Awani
