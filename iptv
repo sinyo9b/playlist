@@ -14,12 +14,14 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
 https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b9L49Sw.png" group-title="ID",TRANS TV
+http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95pENfz.jpg" group-title="ID",TRANS 7
 http://id2.indostreamingtv.com/live/trans7/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlmUv0A.jpg" group-title="ID",TV ONE 
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/b9L49Sw.png" group-title="ID",TRANS TV
-http://id2.indostreamingtv.com/live/tv33/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/RjGlCem.png" group-title="ID", Kompas TV
+#https://jago.tv21.me/live/rayga/3456/usee/kompastv/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29DYO51.png" group-title="ID",INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="ID",TVRI (Opt-2)
@@ -198,10 +200,10 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 #EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://i.imgur.com/FS9BPCd.png" group-title="Knowledge",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
-#EXTINF:-1 " group-title="Knowledge",Star World (HD)
+#EXTINF:-1 tvg-logo="https://i.imgur.com/FMUYenU.png" group-title="Knowledge",Star World (HD)
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="https://i.imgur.com/UPdI9SN.png" group-title="Knowledge",Blue Ant Extreme
-http://203.153.218.28:9981/stream/channelid/1299824667?ticket=EDA811CE90A26AD414D02B63E0A9171A68A9454C&profile=pass
+http://45.126.83.51/dr9445/h/h15/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf8jEBs.png" group-title="Knowledge",Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fi58e9q.png" group-title="Knowledge",Outdoor Channel
