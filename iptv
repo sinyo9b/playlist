@@ -94,8 +94,6 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Movies",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzux3FP.jpg" group-title="Movies",Red by HBO
-https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="https://i.imgur.com/8OMwn8D.jpg" group-title="Movies",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="https://i.imgur.com/rxm5bYC.jpg" group-title="Movies",FOX Family Movies
