@@ -160,7 +160,7 @@ Knowledge
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gEQRfpZ.jpg" group-title="Knowledge",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
-#EXTINF:-1 logo="https://i.imgur.com/N4o2uMu.png" group-title="Knowledge",Smithsonian
+#EXTINF:-1 tvg-logo="https://i.imgur.com/N4o2uMu.png" group-title="Knowledge",Smithsonian
 https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
