@@ -23,7 +23,7 @@ http://tvku.live:8888/Arifardianayah/Arif/1763
 #EXTINF:-1 tvg-logo="https://i.imgur.com/qlmUv0A.jpg" group-title="ID",TV ONE 
 http://id1.indostreamingtv.com/live/tv444/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjGlCem.png" group-title="ID", Kompas TV
-https://dl.dropbox.com/s/1dmro5w278wwb6r/Kompas2.m3u8?dl=0
+http://tvku.live:8888/Arifardianayah/Arif/3590
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29DYO51.png" group-title="ID",INEWS
 https://live.rctiplus.id/rctiplus/inews_720p.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="ID",TVRI (Opt-2)
@@ -125,7 +125,7 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies 
 http://tvku.live:8888/Arifardianayah/Arif/5
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ww0Aq3F.jpg" group-title="Movies",Celestial Classic Movies
-http://anevia114.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic-avc1_1000000=7-CelestialClassic-mp4a_98800_eng=5.m3u8
+http://tvku.live:8888/Arifardianayah/Arif/4279
 #EXTINF:0 tvg-logo="https://i.imgur.com/glHb2PW.png" group-title="Movies",Star Chinese Movie
 http://tvku.live:8888/Arifardianayah/Arif/780
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WK6cU2.png" group-title="Movies",Waku-Waku Japan
@@ -154,18 +154,10 @@ https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1
 http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/316
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwgJ7H8.jpg" group-title="Movies",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/nDUaxCP.png" group-title="Movies",Hallmark
-http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/321
-#EXTINF:0 tvg-logo="https://i.imgur.com/nvPK9eo.jpg" group-title="Movies",Hallmark Mystery
-http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/4599
-#EXTINF:0 tvg-logo="https://i.imgur.com/ediRdRU.png" group-title="Movies",Hallmark Drama
-http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/83349
 #EXTINF:0 tvg-logo="https://i.imgur.com/o6l87Wu.jpg" group-title="Movies",PRIME ASIA
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/VG9ezUl.png" group-title="Movies",SYFY
-http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/339
 
- 
+
 Knowledge
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gEQRfpZ.jpg" group-title="Knowledge",BBC Earth
