@@ -69,7 +69,7 @@ https://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8?fluxustv.m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/rF5xhn4.jpg" group-title="Kids",NICK
 http://ok2.se:8000/9961F7UyyKUPj3qW0/eb2aF9ULHJIXjypHk/394
 #EXTINF:0 tvg-logo="https://i.imgur.com/w9La4Rl.png" group-title="Kids",NICKTOONS
-http://213.252.252.17/live/eds/Nicktoons/HLS_encr/Nicktoons.m3u8
+http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a_96000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCFoQr7.jpg" group-title="Kids",THE PET COLLECTIVE
 https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OAt5g7z.png" group-title="Kids",Nimo Tv
@@ -81,7 +81,7 @@ Movies
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fuOazDD.jpg" group-title="Movies",Citra Drama
 https://dl.dropbox.com/s/2f1e4vq02tpu2pc/Citra%20drama.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/dgW2f77.png" group-title="Movies",Warner tv
-https://liveanevia.mncnow.id/live/eds/WarnerTV/sa_hls/WarnerTV-avc1_1000000=16-mp4a_98800_eng=5.m3u8
+http://203.154.243.89:11205
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Delm4HK.jpg" group-title="Movies",AXN
 http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Delm4HK.jpg" group-title="Movies",AXN HD
@@ -94,6 +94,8 @@ https://anevia115.mncnow.id/live/eds/HBOHits/sa_hls/HBOHits-avc1_2499968=10-mp4a
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Movies",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/Pzux3FP.jpg" group-title="Movies",Red by HBO
+https://www.livedoomovie.com/02_RedbyHBO_720p/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="https://i.imgur.com/8OMwn8D.jpg" group-title="Movies",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="https://i.imgur.com/rxm5bYC.jpg" group-title="Movies",FOX Family Movies
@@ -158,6 +160,8 @@ Knowledge
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gEQRfpZ.jpg" group-title="Knowledge",BBC Earth
 https://liveanevia.mncnow.id/live/eds/BBCEarth/sa_hls/BBCEarth-avc1_1000000=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 logo="https://i.imgur.com/N4o2uMu.png" group-title="Knowledge",Smithsonian
+https://dl.dropbox.com/s/w1lv3vfqkf4tlvc/Smith.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=8C75884AEC347CCF2698FA0D6597E19F865962E4&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Channel 2
@@ -179,7 +183,7 @@ http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D34
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfQthit.png" group-title="Knowledge",Nat Geo Wild
 https://liveanevia.mncnow.id/live/eds/NatGeoWild/sa_hls/NatGeoWild-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfQthit.png" group-title="Knowledge",Nat Geo Wild 2
-http://livestream.biznetvideo.net/biznet_ngwild/smil:ngwild.smil
+http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/03.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2pt8pj.png" group-title="Knowledge",Nat Geo People
 https://liveanevia.mncnow.id/live/eds/NatGeoPeople/sa_hls/NatGeoPeople-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2pt8pj.png" group-title="Knowledge",NAT GEO People 2
