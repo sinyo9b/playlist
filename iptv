@@ -123,7 +123,7 @@ http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1u5WFy1.jpg" group-title="Movies",Kix
 https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies 
-http://tvku.live:8888/Arifardianayah/Arif/5
+http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ww0Aq3F.jpg" group-title="Movies",Celestial Classic Movies
 http://tvku.live:8888/Arifardianayah/Arif/4279
 #EXTINF:0 tvg-logo="https://i.imgur.com/glHb2PW.png" group-title="Movies",Star Chinese Movie
@@ -137,7 +137,7 @@ https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jvOj5lX.jpg" group-title="Movies",Cinema World
 http://tvku.live:8888/Arifardianayah/Arif/1194
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MV2IZE.jpg" group-title="Movies",Thrill
-http://tvku.live:8888/Arifardianayah/Arif/4
+http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/07AENNw.jpg" group-title="Movies",Cinemax
 http://203.153.218.28:9981/stream/channelid/255605374?ticket=8419D5E6A24EE915F246B23011407540BE9B0E50&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/07AENNw.jpg" group-title="Movies",CinemaxHD
@@ -199,9 +199,11 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMUYenU.png" group-title="Knowledge",Star World (HD)
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="https://i.imgur.com/UPdI9SN.png" group-title="Knowledge",Blue Ant Extreme
-http://tvku.live:8888/Arifardianayah/Arif/811
+http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf8jEBs.png" group-title="Knowledge",Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5KlZnuM.jpg" group-title="Knowledge",Sony One (HD)
+http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fi58e9q.png" group-title="Knowledge",Outdoor Channel
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfckfrW.jpg" group-title="Knowledge",Home & Living
