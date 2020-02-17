@@ -152,8 +152,8 @@ http://livecdnh1.tvanywhere.ae/hls/star_movies/05.m3u8?fluxustv.m3u8
 http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VLXzm7L.jpg" group-title="Movies",Zee Bioskop
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
-#EXTINF:0 tvg-logo="https://i.imgur.com/KnedhLv.png" group-title="Movies",Comedy Network (HD)
-http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/316
+#EXTINF:0 tvg-logo="https://i.imgur.com/KnedhLv.png" group-title="Movies",Comedy Central (HD)
+http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1369.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwgJ7H8.jpg" group-title="Movies",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/o6l87Wu.jpg" group-title="Movies",PRIME ASIA
@@ -196,6 +196,8 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/ENmyEwz.png" group-title="Knowledge",Discovery Channel
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
+#EXTINF:-1 tvg-logo="https://i.imgur.com/5Xvtc6h.jpg" group-title="Knowledge", Discovery Turbo
+http://z.iptvsubscription.org:80/live/TqyXTMVp48/6fr1g1RiFG/2117.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://i.imgur.com/FS9BPCd.png" group-title="Knowledge",TLC
 http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMUYenU.png" group-title="Knowledge",Star World (HD)
