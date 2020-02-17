@@ -78,8 +78,10 @@ http://185.176.117.242/live/eds/Nicktoons/HLS_encr/Nicktoons-avc1_600000=11-mp4a
 http://tvku.live:8888/Arifardianayah/Arif/936
 #EXTINF:-1 tvg-logo="https://i.imgur.com/WCFoQr7.jpg" group-title="Kids",THE PET COLLECTIVE
 https://livetvhooq.akamaized.net/b31c750a9bbe45fcbe58d72534e6b8f6/ap-southeast-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1577080744~exp=9007200831821735~acl=/b31c750a9bbe45fcbe58d72534e6b8f6/*/profile_2/chunklist.m3u8*~hmac=baa54452db02d00d42b3b34565dd2c7ac10da7fdec56bbe1e717ce4fccaba918
-#EXTINF:-1 tvg-logo="https://i.imgur.com/OAt5g7z.png" group-title="Kids",Nimo Tv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAt5g7z.png" group-title="Kids",Nimo Tv Tom & Jerry
 https://ws.flv.nimo.tv/live/su1599512427554r538093ee8e9c2edd24251f82cda6fd16_high.flv?fluxustv.flv
+#EXTINF:-1 tvg-logo="https://i.imgur.com/OAt5g7z.png" group-title="Kids",Nimo Tv Larva
+http://ws.flv.nimo.tv/live/su1599512427560r1e0b7afba22fec0a5191643a588e9f06_high.flv
 
 
 Movies
