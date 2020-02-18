@@ -1,9 +1,9 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIJwZRr.png" group-title="ID",RCTI
-https://live.rctiplus.id/rctiplus/rcti_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582077343~acl=/hls-p/ingest_665_*/*~hmac=f1aed0cae417bd06cf12e9fd80c34494ba2d5b64bd8195539d4036678ac8c01c/hls-p/ingest_665_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INWmKYi.jpg" group-title="ID",MNC
-https://live.rctiplus.id/rctiplus/mnctv_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582077394~acl=/hls-b/ingest_870_*/*~hmac=ae6df34c2e42e66563a553517d99b897885baaf9b74ddfc21dcddc74b469e4f0/hls-b/ingest_870_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcoYY4W.png" group-title="ID",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png?v=2.0.0.9" group-title="ID", SCTV
@@ -13,7 +13,7 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkpJDAl.jpg" group-title="ID",NET TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NETTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
-https://live.rctiplus.id/rctiplus/gtv_720p.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1582077784~acl=/hls-p/ingest_778_*/*~hmac=206b6f465346d083cd18ee04d63a513ec898873b665bcdfc96dbfd05e6997100/hls-p/ingest_778_720p/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9L49Sw.png" group-title="ID",TRANS TV
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95pENfz.jpg" group-title="ID",TRANS 7
@@ -35,7 +35,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/j87GJOF.png" group-title="ID",CNBC
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/o8oGrS4.png" group-title="ID" ,Berita Satu
-http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+https://anevia115.mncnow.id:443/live/eds/BeritaSatu/sa_hls/BeritaSatu-avc1_1000000=7-mp4a_98800_eng=3.m3u8
 
 
 KIDS
@@ -59,7 +59,7 @@ https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7EXjhM.png" group-title="Kids",MNC Kids
 https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVmmvyd.jpg" group-title="Kids",Aniplus HD
-http://210.210.155.35/dr9445/h/h02/01.m3u8
+http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/yoRFaVr.jpg" group-title="Kids",BABY TV
 https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i2CDHtv.jpg" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Kids",Boing
@@ -97,7 +97,7 @@ http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Delm4HK.jpg" group-title="Movies",AXN HD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CipiMs7.png" group-title="Movies",Crime Investigation
-http://tvku.live:8888/Arifardianayah/Arif/332
+https://liveanevia.mncnow.id/live/eds/CrimeInvestigation/sa_hls/CrimeInvestigation-avc1_1000000=10-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cURobNn.jpg" group-title="Movies",HBO
 http://tvku.live:8888/live/dwihari/dwi234/210.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xZ5gpv.jpg" group-title="Movies",HBO Hits
@@ -129,9 +129,11 @@ https://liveanevia.mncnow.id/live/eds/KIX/sa_hls/KIX-avc1_1000000=7-mp4a_98800_e
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies 
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ww0Aq3F.jpg" group-title="Movies",Celestial Classic Movies
-http://tvku.live:8888/Arifardianayah/Arif/4279
+https://liveanevia.mncnow.id/live/eds/CelestialClassic/sa_hls/CelestialClassic.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/glHb2PW.png" group-title="Movies",Star Chinese Movie
-http://tvku.live:8888/Arifardianayah/Arif/780
+https://liveanevia.mncnow.id/live/eds/SCM/sa_hls/SCM.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fEbRNDi.png" group-title="Movies", Star Chinese Movies Legend
+https://liveanevia.mncnow.id/live/eds/SCMlegend/sa_hls/SCMlegend.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WK6cU2.png" group-title="Movies",Waku-Waku Japan
 https://liveanevia.mncnow.id/live/eds/WakuWakuJapan/sa_hls/WakuWakuJapan-avc1_2499968=11-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits
@@ -139,7 +141,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_9880
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jvOj5lX.jpg" group-title="Movies",Cinema World
-http://tvku.live:8888/Arifardianayah/Arif/1194
+https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MV2IZE.jpg" group-title="Movies",Thrill
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/07AENNw.jpg" group-title="Movies",Cinemax
@@ -179,7 +181,7 @@ https://liveanevia.mncnow.id/live/eds/AnimalPlanet/sa_hls/AnimalPlanet-avc1_1000
 #EXTINF:-1 tvg-ID="" tvg-name="ANIMAL PLANET" tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet HD
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History
-http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
+https://liveanevia.mncnow.id/live/eds/History/sa_hls/History-avc1_1000000=9-History-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRwXVRj.png" group-title="Knowledge",Nat Geographic
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/bfQthit.png" group-title="Knowledge",Nat Geo Wild
@@ -189,7 +191,7 @@ http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tpi9eRj.png" group-title="Knowledge",FOX Life HD
 https://anevia115.mncnow.id/live/eds/STARWorld/sa_hls/STARWorld-avc1_2499968=7-mp4a_98800_ind=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JooMxmi.png" group-title="Knowledge",LifeTime FHD
-http://tvku.live:8888/Arifardianayah/Arif/866
+https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Teens
 http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Films
@@ -205,11 +207,11 @@ http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87E
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMUYenU.png" group-title="Knowledge",Star World (HD)
 http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="https://i.imgur.com/UPdI9SN.png" group-title="Knowledge",Blue Ant Extreme
-http://210.210.155.35/session/ca6ab734-6a2f-11e9-ae93-9813b3aa7f8f/dr9445/h/h15/02.m3u8
+http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf8jEBs.png" group-title="Knowledge",Sony Gem
 http://210.210.155.66/h/h19/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5KlZnuM.jpg" group-title="Knowledge",Sony One (HD)
-http://210.210.155.35/session/0a574f68-50dd-11e9-ac46-b82a72d63267/uq2663/h/h143/01.m3u8
+http://rr.dens.tv/h/h143/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Fi58e9q.png" group-title="Knowledge",Outdoor Channel
 https://livetvhooq.akamaized.net/4333904e5f68426cae808a645e882206/eu-central-1/5493668622001/profile_2/chunklist.m3u8?hdnts=st=1576672231~exp=9007200831413222~acl=/4333904e5f68426cae808a645e882206/*/profile_2/chunklist.m3u8*~hmac=d22ed12147e6fe5936f8198fcf71838cb4651880f2ac0f4fdea39fb2b8a054b7
 #EXTINF:-1 tvg-logo="https://i.imgur.com/tfckfrW.jpg" group-title="Knowledge",Home & Living
@@ -250,9 +252,9 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYHveA7.png" group-title="Extra Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxYDKcz.jpg" group-title="Extra Sports", BeinSport 1
-https://www.livedoomovie.com/02_epl1_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeIN1/sa_hls/BeIN1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxtmyuO.jpg" group-title="Extra Sports", BeinSport 2
-https://www.livedoomovie.com/02_epl2_720p/chunklist.m3u8
+https://liveanevia.mncnow.id/live/eds/BeIN2/sa_hls/BeIN2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHZGTq0.png" group-title="Extra Sports", True Premier Football 1
 https://www.livedoomovie.com/02_PremierHD1_720p/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJEg7lf.jpg" group-title="Extra Sports", True Premier Football 2
@@ -270,7 +272,7 @@ https://anevia115.mncnow.id:443/live/eds/HunanTV/sa_hls/HunanTV-avc1_2499968=7-m
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IOLtgIH.png" group-title="China",SHANGHAI DRAGON TV
 https://anevia114.mncnow.id:443/live/eds/ShanghaiDragonTV/sa_hls/ShanghaiDragonTV-avc1_2499968=7-mp4a_98800_eng=3.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CvBSpnx.jpg" group-title="China",XingXong
-http://tvku.live:8888/Arifardianayah/Arif/3605
+https://liveanevia.mncnow.id/live/eds/XingKongTV/sa_hls/XingKongTV.m3u
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DL6zkTI.png" group-title="China",CCTV 1
 http://39.135.34.151:18890/000000001000/1000000001000021973/1.m3u8?channel-id=ystenlive&Contentid=1000000001000021973&livemode=1&stbId=005203FF000360100001001A34C0CD33&userToken=4ef1f6fdd53988bdf19472c73151206f21vv&usergroup=g21077200000&version=1.0&owaccmark=1000000001000021973&owchid=ystenlive&owsid=1106497909461769539&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE7AORAoVDZDWbFnJ0sXJEaRLaQJeR5usCQMKdpIDCZAoYPt4bOuuiUwGxs8%2fKxpb7Wa3xqB26AcGEvjhx3JJlw6
 #EXTINF:-1 tvg-logo="https://i.imgur.com/v0XHo58.jpg" group-title="China"",CCTV 2
@@ -310,3 +312,5 @@ Music
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/GmDHgWs.png" group-title="Music",Music TV
 https://anevia114.mncnow.id:443/live/eds/MusicChannel/sa_hls/MusicChannel-avc1_1000000=7-mp4a_98800_eng=3.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9GO1Z3P.jpg" group-title="Music",Channel V
+https://liveanevia.mncnow.id/live/eds/ChannelV/sa_hls/ChannelV-avc1_2499968=11-ChannelV-mp4a_98800_eng=3.m3u8
