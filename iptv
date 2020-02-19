@@ -1,9 +1,9 @@
 #EXTM3U
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/NIJwZRr.png" group-title="ID",RCTI
-https://etslive-2-vidio-com.akamaized.net/exp=1582077343~acl=/hls-p/ingest_665_*/*~hmac=f1aed0cae417bd06cf12e9fd80c34494ba2d5b64bd8195539d4036678ac8c01c/hls-p/ingest_665_720p/index.m3u8
+https://livetvhooq.akamaized.net/d182c52b34984076be9817e526e2bb5e/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005902~exp=9007200790746893~acl=/d182c52b34984076be9817e526e2bb5e/*/profile_0/chunklist.m3u8*~hmac=d3f38106d3b48f97b8cd3ff97e7e6d25a3f843a0875815c231a14b29bdd3ef34
 #EXTINF:-1 tvg-logo="https://i.imgur.com/INWmKYi.jpg" group-title="ID",MNC
-https://etslive-2-vidio-com.akamaized.net/exp=1582077394~acl=/hls-b/ingest_870_*/*~hmac=ae6df34c2e42e66563a553517d99b897885baaf9b74ddfc21dcddc74b469e4f0/hls-b/ingest_870_720p/index.m3u8
+https://livetvhooq.akamaized.net/3127bcd58c9149b298b664b1ec828285/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/3127bcd58c9149b298b664b1ec828285/*/profile_0/chunklist.m3u8*~hmac=99928fa4d986fe186b165d47ed653d126327c06e772b228dbf2b4387beda9502
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XcoYY4W.png" group-title="ID",ANTV
 http://id2.indostreamingtv.com/live/antv/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png?v=2.0.0.9" group-title="ID", SCTV
@@ -13,7 +13,7 @@ http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkpJDAl.jpg" group-title="ID",NET TV
 https://raw.githubusercontent.com/exodiver/IPTV/master/M3U8/Token/NETTV.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
-https://etslive-2-vidio-com.akamaized.net/exp=1582077784~acl=/hls-p/ingest_778_*/*~hmac=206b6f465346d083cd18ee04d63a513ec898873b665bcdfc96dbfd05e6997100/hls-p/ingest_778_720p/index.m3u8
+https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_1/chunklist.m3u8?hdnts=st=1536005897~exp=9007200790746888~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_1/chunklist.m3u8*~hmac=41e55cd90f1806ca59b56a1c266cc150ab4d70047b87019fc7db29c07c678d42
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9L49Sw.png" group-title="ID",TRANS TV
 http://id2.indostreamingtv.com/live/tv33/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/95pENfz.jpg" group-title="ID",TRANS 7
