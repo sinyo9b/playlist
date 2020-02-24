@@ -140,7 +140,7 @@ https://liveanevia.mncnow.id/live/eds/HITS/sa_hls/HITS-avc1_2499968=11-mp4a_9880
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits Movies
 https://liveanevia.mncnow.id/live/eds/HitsMovies/sa_hls/HitsMovies-avc1_2499968=12-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jvOj5lX.jpg" group-title="Movies",Cinema World
-https://liveanevia.mncnow.id/live/eds/CinemaWorld/sa_hls/CinemaWorld-avc1_2499968=13-mp4a_98800_eng=3.m3u8
+http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MV2IZE.jpg" group-title="Movies",Thrill
 http://210.210.155.35/session/453c7fb4-6a31-11e9-b1c1-bf03b175abaa/qwr9ew/s/s34/02.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="CINEMAX" tvg-logo="https://i.imgur.com/07AENNw.jpg" group-title="Movies",Cinemax
@@ -156,7 +156,7 @@ http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/VLXzm7L.jpg" group-title="Movies",Zee Bioskop
 https://anevia115.mncnow.id:443/live/eds/MovieChannel/sa_hls/MovieChannel-avc1_1000000=7-mp4a_66900_eng=2.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/KnedhLv.png" group-title="Movies",Comedy Central (HD)
-http://z.iptvsubscription.org:80/live/2ucpNdKgqy/La1LlABcKd/1369.m3u8
+http://ok2.se:8000/4c7bF7U7E5RLA34xQ/af8bF9UjWPukVZFst/316
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwgJ7H8.jpg" group-title="Movies",FX
 https://liveanevia.mncnow.id/live/eds/FX/sa_hls/FX-avc1_2499968=10-mp4a_98800_eng=3.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/o6l87Wu.jpg" group-title="Movies",PRIME ASIA
