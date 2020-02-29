@@ -11,7 +11,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="ID", INDOSIAR
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkpJDAl.jpg" group-title="ID",NET TV
-https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
+https://delivery.macan.live/stream/id_nettv/index.m3u8?token=BBjZUfXZ&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9L49Sw.png" group-title="ID",TRANS TV
@@ -39,15 +39,15 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 KIDS
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MER0a2c.png" group-title="Kids",Disney Junior
-http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=BBjZUfXZ&v=20200202
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/wzATqeH.png" group-title="Kids",Disney Channel
-http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=BBjZUfXZ&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0nEX7A.jpg" group-title="Kids",Cartoon Network
 https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
-https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
+http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nloYJf6.jpg" group-title="Kids",Nick Jr
 https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KneQ0p.jpg" group-title="Kids",Nickelodeon
