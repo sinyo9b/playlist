@@ -11,7 +11,7 @@ http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="ID", INDOSIAR
 http://45.126.83.51/qwr9ew/s/s04/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkpJDAl.jpg" group-title="ID",NET TV
-https://delivery.macan.live/stream/id_nettv/index.m3u8?token=BBjZUfXZ&v=20200202
+https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
 https://livetvhooq.akamaized.net/23cf552372cb459795ca683f9cc306d8/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1576169544~exp=9007200830910535~acl=/23cf552372cb459795ca683f9cc306d8/*/profile_0/chunklist.m3u8*~hmac=d7640975f61c8be6c7bad787980b52a8c3026cd2052635850f4d16637b741fbc
 #EXTINF:-1 tvg-logo="https://i.imgur.com/b9L49Sw.png" group-title="ID",TRANS TV
@@ -155,7 +155,7 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnedhLv.png" group-title="Movies",Comedy Central (HD)
 https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwgJ7H8.jpg" group-title="Movies",FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=BBjZUfXZ&v=20200202
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/59
 #EXTINF:0 tvg-logo="https://i.imgur.com/o6l87Wu.jpg" group-title="Movies",PRIME ASIA
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
