@@ -117,7 +117,7 @@ https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=2h93mzvI&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54fdM4G.jpg" group-title="Movies",FOX Crime
 https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXL9GjO.jpg" group-title="Movies",TvN
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=2h93mzvI&v=20200202
+http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC7pyW.jpg" group-title="Movies",TvN movies
 https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aU93sAL.jpg" group-title="Movies",K+
