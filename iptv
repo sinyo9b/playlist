@@ -39,27 +39,27 @@ http://edge.linknetott.swiftserve.com/live/BsNew/amlst:beritasatunewsbs/chunklis
 KIDS
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MER0a2c.png" group-title="Kids",Disney Junior
-https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=BBjZUfXZ&v=20200202
+https://delivery.macan.live/stream/disneyjunior/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/wzATqeH.png" group-title="Kids",Disney Channel
-https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=BBjZUfXZ&v=20200202
+https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0nEX7A.jpg" group-title="Kids",Cartoon Network
-https://liveanevia.mncnow.id/live/eds/CartoonNetwork/sa_hls/CartoonNetwork-avc1_2499968=10-mp4a_98800_ind=16.m3u8
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nloYJf6.jpg" group-title="Kids",Nick Jr
-https://liveanevia.mncnow.id/live/eds/NickJr/sa_hls/NickJr-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+https://delivery.macan.live/stream/nickjr/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KneQ0p.jpg" group-title="Kids",Nickelodeon
-https://liveanevia.mncnow.id/live/eds/Nickelodeon/sa_hls/Nickelodeon-avc1_1000000=8-mp4a_98800_eng=4.m3u8
+https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xXv3I9.png" group-title="Kids",Animax
-https://liveanevia.mncnow.id/live/eds/Animax/sa_hls/Animax-avc1_2499968=11-mp4a_98800_eng=3.m3u8
+http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7EXjhM.png" group-title="Kids",MNC Kids
 https://anevia115.mncnow.id:443/live/eds/KidsChannel/sa_hls/KidsChannel-avc1_1000000=9-mp4a_98800_eng=5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pVmmvyd.jpg" group-title="Kids",Aniplus HD
 http://210.210.155.35/session/0d216142-f3f5-11e8-ab67-89df93dc8d44/dr9445/h/h02/01.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/yoRFaVr.jpg" group-title="Kids",BABY TV
-https://liveanevia.mncnow.id/live/eds/BabyTV/sa_hls/BabyTV-avc1_2499968=10-mp4a_98800_eng=5.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/yoRFaVr.jpg" group-title="Kids",Baby First
+http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
 #EXTINF:-1 tvg-id="Boing ES" tvg-name="Boing ES" tvg-language="Spanish" tvg-logo="https://i.imgur.com/i2CDHtv.jpg" tvg-country="ES" tvg-url="http://195.154.221.171/epg/guidespain.xml.gz" group-title="Kids",Boing
 https://mdslivehlsb-i.akamaihd.net/hls/live/623616/boing/bitrate_4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/DDxZUPe.jpg" group-title="Kids",Duck TV
