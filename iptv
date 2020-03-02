@@ -41,7 +41,7 @@ KIDS
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MER0a2c.png" group-title="Kids",Disney Junior
 http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/wzATqeH.png" group-title="Kids",Disney Channel
-https://delivery.macan.live/stream/id_disneychannel/index.m3u8?token=2h93mzvI&v=20200202
+http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0nEX7A.jpg" group-title="Kids",Cartoon Network
 http://iptv.lancar.tech:25461/wZjUTbEVmw/Fl1pF7xpEq/81
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
@@ -220,7 +220,7 @@ https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=BBjZUfXZ&v=202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZtU4IK.jpg" group-title="Extra Sports",Usee Sport 2
 https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=BBjZUfXZ&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600Nix3.jpg" group-title="Extra Sports",Fight Sports
-https://delivery.macan.live/stream/fightsport/index.m3u8?token=2h93mzvI&v=20200202
+http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMUdtDu.png" group-title="Extra Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKnS5dr.jpg" group-title="Extra Sports",FOX Sport 1
