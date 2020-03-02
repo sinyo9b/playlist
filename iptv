@@ -127,7 +127,7 @@ http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies 
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ww0Aq3F.jpg" group-title="Movies",Celestial Classic Movies
-https://delivery.macan.live/stream/ccm/index.m3u8?token=2h93mzvI&v=20200202
+http://streamku.live:8888/live/masmuto/masmuto20/682.ts
 #EXTINF:0 tvg-logo="https://i.imgur.com/glHb2PW.png" group-title="Movies",Star Chinese Movie
 https://delivery.macan.live/stream/id_scm/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEbRNDi.png" group-title="Movies", Star Chinese Movies Legend
@@ -171,7 +171,7 @@ https://delivery.macan.live/stream/id_afc/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORWDB6b.jpg" group-title="Knowledge",Red Bull Tv
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet
-https://delivery.macan.live/stream/id_animalplanet/index.m3u8?token=2h93mzvI&v=20200202
+http://84.22.33.254/unicast.animalplanet/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History
 https://delivery.macan.live/stream/history/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History2
@@ -183,7 +183,7 @@ http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/a2pt8pj.png" group-title="Knowledge",Nat Geo People
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Tpi9eRj.png" group-title="Knowledge",FOX Life HD
-https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=2h93mzvI&v=20200202
+http://streamku.live:8888/live/masmuto/masmuto20/583.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/JooMxmi.png" group-title="Knowledge",LifeTime FHD
 https://liveanevia.mncnow.id/live/eds/Lifetime/sa_hls/Lifetime-avc1_499968=8-Lifetime-mp4a_66000_eng=2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Teens
@@ -246,9 +246,9 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYHveA7.png" group-title="Extra Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxYDKcz.jpg" group-title="Extra Sports", BeinSport 1
-http://skdn.redi-vo.com/iptv/ch111?code=103131497823984&key=54576
+https://www.doofree88.com/streaming/epl-bein1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxtmyuO.jpg" group-title="Extra Sports", BeinSport 2
-http://skdn.redi-vo.com/iptv/ch112?code=103131497823984&key=46098
+#https://www.doofree88.com/streaming/epl-bein2_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHZGTq0.png" group-title="Extra Sports", True Premier Football 1
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJEg7lf.jpg" group-title="Extra Sports", True Premier Football 2
