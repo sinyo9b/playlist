@@ -95,9 +95,9 @@ http://210.210.155.66/h/h141/02.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="AXN" tvg-logo="https://i.imgur.com/Delm4HK.jpg" group-title="Movies",AXN HD
 http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D61A1907E83292A2DB1741&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CipiMs7.png" group-title="Movies",Crime Investigation
-https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cURobNn.jpg" group-title="Movies",HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/hbo/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xZ5gpv.jpg" group-title="Movies",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wStqxGK.png" group-title=Movies",HBO Family
@@ -113,13 +113,13 @@ http://203.153.218.28:9981/stream/channelid/1949182550?ticket=07F04FD978CF0D1626
 #EXTINF:-1 tvg-ID="" tvg-name="FOX MOVIES" tvg-logo="https://i.imgur.com/ytvpjqo.jpg" group-title="Movies",Fox Movies Premium
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7ACFD3C14E761032035F66E&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d3H7zC.png" group-title="Movies",FOX Action Movies HD
-https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54fdM4G.jpg" group-title="Movies",FOX Crime
 http://mantul.biz.id:8888/live/henky6/mantulok/49.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXL9GjO.jpg" group-title="Movies",TvN
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/57
+https://delivery.macan.live/stream/id_tvn/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC7pyW.jpg" group-title="Movies",TvN movies
-https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aU93sAL.jpg" group-title="Movies",K+
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1u5WFy1.jpg" group-title="Movies",Kix
@@ -127,17 +127,17 @@ http://210.210.155.35/session/a45c93be-048b-11e9-8761-b82a72d63267/uq2663/h/h07/
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/a/af/CMC_English_full_color_black_text_2.jpg" group-title="Movies",Celestial Movies 
 http://210.210.155.35/session/31580704-c313-11e8-86db-c81f66f89318/qwr9ew/s/s33/01.m3u8
 #EXTINF:0 tvg-logo="https://i.imgur.com/Ww0Aq3F.jpg" group-title="Movies",Celestial Classic Movies
-http://streamku.live:8888/live/masmuto/masmuto20/682.ts
+https://delivery.macan.live/stream/ccm/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:0 tvg-logo="https://i.imgur.com/glHb2PW.png" group-title="Movies",Star Chinese Movie
-https://delivery.macan.live/stream/id_scm/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/id_scm/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEbRNDi.png" group-title="Movies", Star Chinese Movies Legend
 https://delivery.macan.live/stream/scmlegend/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WK6cU2.png" group-title="Movies",Waku-Waku Japan
-https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits Movies
-https://delivery.macan.live/stream/hits_movies/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/hits_movies/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jvOj5lX.jpg" group-title="Movies",Cinema World
 http://45.126.83.51/uq2663/h/h04/index2.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/8MV2IZE.jpg" group-title="Movies",Thrill
@@ -163,9 +163,9 @@ http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 Knowledge
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gEQRfpZ.jpg" group-title="Knowledge",BBC Earth
-https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/bbc_earth/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/N4o2uMu.png" group-title="Knowledge",Smithsonian
-https://delivery.macan.live/stream/smithsonian/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/smithsonian/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cEhjz7r.jpg" group-title="Knowledge",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/ORWDB6b.jpg" group-title="Knowledge",Red Bull Tv
@@ -173,7 +173,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History
-https://delivery.macan.live/stream/history/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/history/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRwXVRj.png" group-title="Knowledge",Nat Geographic
@@ -216,9 +216,9 @@ http://live-oceantvhd.cdnvideo.ru/oceantvhd/oceantvhd/chunklist.m3u8
 Extra Sport
  
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZtU4IK.jpg" group-title="Extra Sports",Usee Sport 1
-http://streamku.live:8888/live/masmuto/masmuto20/502.ts
+https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZtU4IK.jpg" group-title="Extra Sports",Usee Sport 2
-http://streamku.live:8888/live/masmuto/masmuto20/503.ts
+https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600Nix3.jpg" group-title="Extra Sports",Fight Sports
 http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMUdtDu.png" group-title="Extra Sports",Egg Network
@@ -232,9 +232,9 @@ https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZI1lJU.png" group-title="Extra Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LEHoHi.png" group-title="Extra Sports",Champions tv 1
-https://etslive-2-vidio-com.akamaized.net/exp=1583087073~acl=/hls-p/ingest_geo_6685_*/*~hmac=75af8254b4fadb3855f0bf9dad971bfbb6008ebc7ab587d6a1fc9ee69088e8c5/hls-p/ingest_geo_6685_720p/index.m3u8
+https://delivery.macan.live/stream/macan_sport_5/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LEHoHi.png" group-title="Extra Sports",Champions tv 2
-https://etslive-2-vidio-com.akamaized.net/exp=1583087186~acl=/hls-p/ingest_geo_6686_*/*~hmac=7af4efc2201ef663539f7786341048cfe02b16a2fe97ee5c2cabdc22a98f0963/hls-p/ingest_geo_6686_720p/index.m3u8
+https://delivery.macan.live/stream/macan_sport_6/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4JT2dxN.jpg" group-title="Extra Sports",Sony Six
 https://streamer-1.toffeelive.com/live/sony_six_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KVTFkBT.jpg" group-title="Extra Sports",Sony Ten 1
