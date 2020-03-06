@@ -9,7 +9,7 @@ http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png?v=2.0.0.9" group-title="ID", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="ID", INDOSIAR
-http://45.126.83.51/qwr9ew/s/s04/01.m3u8
+http://202.83.123.74:25461/gocir/herdiana91/33?token=QhBYV0dYRg4TCF0GVVZVUARVUlBQCwcBDwAFVwIHWFBcV1YFDFNdDQgaSBAQEEJXVQhvWgIbCVYKGBJEElMTPVBWEgwWB1EBCQ5GHkEQWV9RRwoCUwEAUAgBCQRXGkMSUFYSDBYBUwMJCEYeQQFIRlEXXlIKZlcAT11TVEMMDxdVXhwUW147UFRVBVwHRgoQBEccEQ9KQ0cDWkVdDRpDAFBGQldAVUYOEwpUAlNGHBBXCkVdEktKRwMWeXVDGkMHQUZVWEdZC1oTAkZGEEYcEF0Wb0EDSkcXXFVdVBMUW0AJEBwUWVEca1JXClwGB0RbWwtDEVwbAkcVFl1eD18VDUttQF9QEl4WAAlQBkEZ
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkpJDAl.jpg" group-title="ID",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
@@ -23,7 +23,7 @@ http://210.210.155.35/session/e4263a20-3b78-11ea-91d5-c81f66f89318/qwr9ew/s/s105
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RjGlCem.png" group-title="ID", Kompas TV
 http://210.210.155.35/session/69927436-1aa3-11ea-a103-acecbc14f551/qwr9ew/s/s104/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/29DYO51.png" group-title="ID",INEWS
-https://live.rctiplus.id/rctiplus/inews_720p.m3u8
+https://linier.akamaized.net/live/eds/iNews/sa_hls/iNews-avc1_2000000=1.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wIh3qZo.png" group-title="ID",TVRI
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 tvg-logo="https://i.imgur.com/QBghiQz.jpg" group-title="ID",METRO TV
@@ -43,15 +43,15 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/wzATqeH.png" group-title="Kids",Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0nEX7A.jpg" group-title="Kids",Cartoon Network
-http://iptv.lancar.tech:25461/wZjUTbEVmw/Fl1pF7xpEq/81
+https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
 http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nloYJf6.jpg" group-title="Kids",Nick Jr
-https://delivery.macan.live/stream/nickjr/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/nickjr/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KneQ0p.jpg" group-title="Kids",Nickelodeon
-https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xXv3I9.png" group-title="Kids",Animax
 http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7EXjhM.png" group-title="Kids",MNC Kids
@@ -105,7 +105,7 @@ http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Movies",HBO Signature
 http://203.153.218.28:9981/stream/channelid/1197019186?ticket=7BCDB753E026E4EE21551FA26F86591CDF9DA4A9&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Pzux3FP.jpg" group-title="Movies",Red by HBO
-https://delivery.macan.live/stream/redhbo/index.m3u8?token=BBjZUfXZ&v=20200202
+https://delivery.macan.live/stream/redhbo/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-ID="" tvg-name="FOX" tvg-logo="https://i.imgur.com/8OMwn8D.jpg" group-title="Movies",FOX
 http://203.153.218.28:9981/stream/channelid/1910872088?ticket=972D8B718BDDBE34140EA502554535B036289E24&profile=pass
 #EXTINF:-1 tvg-ID="" tvg-name="FOX FAMILI MOVIES" tvg-logo="https://i.imgur.com/rxm5bYC.jpg" group-title="Movies",FOX Family Movies
@@ -115,7 +115,7 @@ http://203.153.218.28:9981/stream/channelid/756717990?ticket=B63A8893B7D332F2F7A
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3d3H7zC.png" group-title="Movies",FOX Action Movies HD
 https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54fdM4G.jpg" group-title="Movies",FOX Crime
-http://mantul.biz.id:8888/live/henky6/mantulok/49.ts
+https://delivery.macan.live/stream/id_foxcrime/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXL9GjO.jpg" group-title="Movies",TvN
 https://delivery.macan.live/stream/id_tvn/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC7pyW.jpg" group-title="Movies",TvN movies
@@ -155,7 +155,7 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnedhLv.png" group-title="Movies",Comedy Central (HD)
 https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwgJ7H8.jpg" group-title="Movies",FX
-http://iptv.lancar.tech:25461/hznlQUJYrP/OP6Vzrxsmo/59
+https://delivery.macan.live/stream/id_fx/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:0 tvg-logo="https://i.imgur.com/o6l87Wu.jpg" group-title="Movies",PRIME ASIA
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
@@ -193,13 +193,13 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/ENmyEwz.png" group-title="Knowledge",Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=2h93mzvI&v=20200202
+https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Xvtc6h.jpg" group-title="Knowledge", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://i.imgur.com/FS9BPCd.png" group-title="Knowledge",TLC
 https://delivery.macan.live/stream/tlc/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMUYenU.png" group-title="Knowledge",Star World (HD)
-http://livecdnh1.tvanywhere.ae/hls/star_world/05.m3u8?fluxustv.m3u8
+https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="https://i.imgur.com/UPdI9SN.png" group-title="Knowledge",Blue Ant Extreme
 http://210.210.155.35:80/session/7dade102-65b9-11e9-a2e4-c81f66f89318/dr9445/h/h15/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Uf8jEBs.png" group-title="Knowledge",Sony Gem
@@ -224,7 +224,7 @@ http://210.210.155.35/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMUdtDu.png" group-title="Extra Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKnS5dr.jpg" group-title="Extra Sports",FOX Sport 1
-https://www.doofree88.com/streaming/hd-foxsports1_720/index.m3u8
+https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YurISbH.jpg" group-title="Extra Sports",FOX Sport 2
 https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2wCWPDE.jpg" group-title="Extra Sports",FOX Sport 3
@@ -246,9 +246,9 @@ https://streamer-1.toffeelive.com/live/ten_3_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RYHveA7.png" group-title="Extra Sports",Sony ESPN
 https://streamer-1.toffeelive.com/live/sony_espn_576/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KxYDKcz.jpg" group-title="Extra Sports", BeinSport 1
-https://doofree88.com/streaming/epl-bein1_720/index.m3u8
+https://delivery.macan.live/stream/macan_sport_1/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxtmyuO.jpg" group-title="Extra Sports", BeinSport 2
-https://doofree88.com/streaming/epl-bein2_720/index.m3u8
+https://delivery.macan.live/stream/macan_sport_2/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHZGTq0.png" group-title="Extra Sports", True Premier Football 1
 https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJEg7lf.jpg" group-title="Extra Sports", True Premier Football 2
