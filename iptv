@@ -9,7 +9,7 @@ http://210.210.155.35/qwr9ew/s/s102/01.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_sctv_big1.png?v=2.0.0.9" group-title="ID", SCTV
 http://id1.indostreamingtv.com/live/sctv/index.m3u8
 #EXTINF:-1 tvg-logo="http://images.useetv.com/logo_indosiar_big1.png" group-title="ID", INDOSIAR
-https://delivery.macan.live/stream/id_indosiar/index.m3u8?token=Lse1lRx5&v=20200202
+http://id1.indostreamingtv.com/live/indosiar/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/PkpJDAl.jpg" group-title="ID",NET TV
 https://cdn-accedo-01.akamaized.net:443/Content/DASH/Live/channel(404d689d-691f-4035-9801-ae8bfd8712e9)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RmoU3a5.jpg" group-title="ID",GLOBAL TV
@@ -43,7 +43,7 @@ http://103.47.132.164/PLTV/88888888/224/3221226011/04.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISNEY CHANNEL" tvg-logo="https://i.imgur.com/wzATqeH.png" group-title="Kids",Disney Channel
 http://ott.artmott.com/DisneyChannel/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/F0nEX7A.jpg" group-title="Kids",Cartoon Network
-https://delivery.macan.live/stream/cartoonnetwork/index.m3u8?token=FZ1R34IO&v=20200202
+http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9DF1BBBA2BA2F8BDB05A86&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
 https://liveanevia.mncnow.id/live/eds/Boomerang/sa_hls/Boomerang-avc1_2499968=10-mp4a_98800_ind=15.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mxX03nC.png" group-title="Kids",Boomerang
@@ -51,7 +51,7 @@ http://livecdnh3.tvanywhere.ae/hls/boomerang/index.m3u8?fluxustv.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/nloYJf6.jpg" group-title="Kids",Nick Jr
 https://delivery.macan.live/stream/nickjr/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1KneQ0p.jpg" group-title="Kids",Nickelodeon
-https://delivery.macan.live/stream/nickelodeon/index.m3u8?token=FZ1R34IO&v=20200202
+http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5xXv3I9.png" group-title="Kids",Animax
 http://210.210.155.35/session/b184e90e-89a3-11e9-8411-c81f66f89318/dr9445/h/h144/02.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/P7EXjhM.png" group-title="Kids",MNC Kids
@@ -133,7 +133,7 @@ https://delivery.macan.live/stream/id_scm/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/fEbRNDi.png" group-title="Movies", Star Chinese Movies Legend
 https://delivery.macan.live/stream/scmlegend/index.m3u8?token=2h93mzvI&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2WK6cU2.png" group-title="Movies",Waku-Waku Japan
-https://delivery.macan.live/stream/wakuwaku/index.m3u8?token=FZ1R34IO&v=20200202
+http://62.210.246.131:25461/live/gxfgss/HHVVPP/28734.ts?token=HhVYAkpZQF8XUFQPAgQBVQtXB1MFAAVWVFQAUFZVVwcEB1YGWwAEAwYTThtFQ0pVUlk6X1QaWVNdBQtXG0dDEgBFbwpdE1hHBAdaCA4CGhwRQAxbVRpZUFAKClQHVwNRUxsSE1BVQF8XA1QMBAIaHBFRHUJVSg0ACW1cBkEMVQRHDV4WVV1OR1pfPV1TWlleVxZfFAEaT0MMQUhBDQtDDQkbEgFQRRAEQVRAAxQGCgAGFkkUU1cWDxFAQUENR3s4RxsSBkFFBwtGWA1XFA0aREAWSRRZSzwTAEFMEVIEWwQXFQpBCRNOR1hQGmZVWFZeVlcRX19WEENfEAlBG0dbDgteRAxLbhIMURNYGwQBDwACFhg=
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits
 http://45.126.83.51/uq2663/h/h37/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/BUkbVWg.jpg" group-title="Movies",Hits Movies
@@ -173,7 +173,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6CnB4rP.png" group-title="Knowledge",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History
-https://delivery.macan.live/stream/history/index.m3u8?token=FZ1R34IO&v=20200202
+http://203.153.218.28:9981/stream/channelid/1868154562?ticket=21CAD98B63EE6B1D16AFD5B33F7C68F48FA445CD&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5aI4KLz.jpg" group-title="Knowledge",History2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/gRwXVRj.png" group-title="Knowledge",Nat Geographic
@@ -193,11 +193,11 @@ http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunk
 #EXTINF:-1 tvg-logo="https://i.imgur.com/7WArOrt.png" group-title="Knowledge",Fashion TV Midnight
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://i.imgur.com/ENmyEwz.png" group-title="Knowledge",Discovery Channel
-https://delivery.macan.live/stream/id_discoverychannel/index.m3u8?token=FZ1R34IO&v=20200202
+http://203.153.218.28:9981/stream/channelid/1151931232?ticket=D05F5F5AB713CBADFBFABB642E4F37D5004BB751&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/5Xvtc6h.jpg" group-title="Knowledge", Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-ID="" tvg-name="TLC" tvg-logo="https://i.imgur.com/FS9BPCd.png" group-title="Knowledge",TLC
-https://delivery.macan.live/stream/tlc/index.m3u8?token=FZ1R34IO&v=20200202
+http://203.153.218.28:9981/stream/channelid/391618553?ticket=08323DCACE84958A87EA829F012E919CA861DF74&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/FMUYenU.png" group-title="Knowledge",Star World (HD)
 https://delivery.macan.live/stream/id_foxlife/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-ID="" tvg-name="BLUE ANT EXTREME" tvg-logo="https://i.imgur.com/UPdI9SN.png" group-title="Knowledge",Blue Ant Extreme
