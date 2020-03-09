@@ -97,7 +97,7 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CipiMs7.png" group-title="Movies",Crime Investigation
 https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cURobNn.jpg" group-title="Movies",HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=FZ1R34IO&v=20200202
+https://tv4.chang55.com/live2/tv4ch25.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xZ5gpv.jpg" group-title="Movies",HBO Hits
 http://203.153.218.28:9981/stream/channelid/2038175895?ticket=464FCB103389A10044FB3B935A95CDF9A1D1B68F&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wStqxGK.png" group-title=Movies",HBO Family
@@ -117,9 +117,9 @@ https://delivery.macan.live/stream/id_foxactionmovies/index.m3u8?token=FZ1R34IO&
 #EXTINF:-1 tvg-logo="https://i.imgur.com/54fdM4G.jpg" group-title="Movies",FOX Crime
 http://3.0.93.95:25461/live/punyafilmbluray/CieNyolongModalDikitNapaMiskinAmat/5.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MXL9GjO.jpg" group-title="Movies",TvN
-https://delivery.macan.live/stream/id_tvn/index.m3u8?token=FZ1R34IO&v=20200202
+http://mantul.biz.id:8888/live/27LUKMAN/Iptv2702/813.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFC7pyW.jpg" group-title="Movies",TvN movies
-https://delivery.macan.live/stream/tvn_movies/index.m3u8?token=FZ1R34IO&v=20200202
+http://62.210.246.131:25461/live/gxfgss/HHVVPP
 #EXTINF:-1 tvg-logo="https://i.imgur.com/aU93sAL.jpg" group-title="Movies",K+
 http://210.210.155.66/h/h08/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1u5WFy1.jpg" group-title="Movies",Kix
@@ -155,7 +155,7 @@ https://livetvhooq.akamaized.net/ed9f674616594d96bbe00f93ab8d7672/eu-central-1/5
 #EXTINF:-1 tvg-logo="https://i.imgur.com/KnedhLv.png" group-title="Movies",Comedy Central (HD)
 https://www.doofree88.com/streaming/hd-comedycentral_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RwgJ7H8.jpg" group-title="Movies",FX
-https://delivery.macan.live/stream/id_fx/index.m3u8?token=FZ1R34IO&v=20200202
+http://62.210.246.131:25461/live/gxfgss/HHVVPP
 #EXTINF:0 tvg-logo="https://i.imgur.com/o6l87Wu.jpg" group-title="Movies",PRIME ASIA
 http://primeasia.dyndns.tv:8080/Live_web_250/tracks-v1a1/mono.m3u8
 
@@ -220,15 +220,15 @@ https://delivery.macan.live/stream/macan_sport_3/index.m3u8?token=FZ1R34IO&v=202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4ZtU4IK.jpg" group-title="Extra Sports",Usee Sport 2
 https://delivery.macan.live/stream/macan_sport_4/index.m3u8?token=FZ1R34IO&v=20200202
 #EXTINF:-1 tvg-logo="https://i.imgur.com/600Nix3.jpg" group-title="Extra Sports",Fight Sports
-http://210.210.155.35/uq2663/h/h05/01.m3u8
+http://210.210.155.35/session/b09f20ac-0755-11e9-90c8-c81f66f89318/uq2663/h/h05/01.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/mMUdtDu.png" group-title="Extra Sports",Egg Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/OKnS5dr.jpg" group-title="Extra Sports",FOX Sport 1
-https://delivery.macan.live/stream/id_foxsport1/index.m3u8?token=FZ1R34IO&v=20200202
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/30.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/YurISbH.jpg" group-title="Extra Sports",FOX Sport 2
-https://www.doofree88.com/streaming/sd-foxsports2_480/index.m3u8
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/29.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/2wCWPDE.jpg" group-title="Extra Sports",FOX Sport 3
-https://www.doofree88.com/streaming/sd-foxsports3_480/index.m3u8
+http://mantul.biz.id:8888/live/35Joe01/35Joe0703/28.ts
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RZI1lJU.png" group-title="Extra Sports",Real Madrid TV
 http://rmtv24hweblive-lh.akamaihd.net/i/rmtv24hweben_1@300662/index_3_av-b.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/3LEHoHi.png" group-title="Extra Sports",Champions tv 1
@@ -250,9 +250,9 @@ http://skdn.redi-vo.com/iptv/ch111?code=138137164006399&amp;key=54576
 #EXTINF:-1 tvg-logo="https://i.imgur.com/sxtmyuO.jpg" group-title="Extra Sports", BeinSport 2
 http://skdn.redi-vo.com/iptv/ch112?code=138137164006399&amp;key=46098
 #EXTINF:-1 tvg-logo="https://i.imgur.com/RHZGTq0.png" group-title="Extra Sports", True Premier Football 1
-https://www.doofree88.com/streaming/epl-x1_720/index.m3u8
+https://tv4.chang55.com/live2/tv4ch10.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/jJEg7lf.jpg" group-title="Extra Sports", True Premier Football 2
-https://www.doofree88.com/streaming/epl-x2_720/index.m3u8
+https://tv4.chang55.com/live2/tv4ch11.stream/chunks.m3u8
 
 
 China
