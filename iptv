@@ -97,9 +97,9 @@ http://203.153.218.28:9981/stream/channelid/882386103?ticket=DF543FFEC6C497F485D
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CipiMs7.png" group-title="Movies",Crime Investigation
 https://delivery.macan.live/stream/crimeinvestigation/index.m3u8?token=cl1FkPRx&v=20200308
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cURobNn.jpg" group-title="Movies",HBO
-https://delivery.macan.live/stream/hbo/index.m3u8?token=osncqpgd&v=20200308
+https://delivery.macan.live/stream/hbo/index.m3u8?token=mJ7ZXroW&v=20200308
 #EXTINF:-1 tvg-logo="https://i.imgur.com/4xZ5gpv.jpg" group-title="Movies",HBO Hits
-https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=osncqpgd&v=20200308
+https://delivery.macan.live/stream/hbo_hits/index.m3u8?token=mJ7ZXroW&v=20200308
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wStqxGK.png" group-title=Movies",HBO Family
 http://203.153.218.28:9981/stream/channelid/1316004766?ticket=5F57E6E5C9291700E8B75D86F760C75666701FBB&profile=pass
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Bp0lkAv.png" group-title="Movies",HBO Signature
